@@ -18,7 +18,7 @@ const AnimatedTitle = ({ title, containerClass }) => {
           toggleActions: "play none none reverse",
         },
       });
- 
+
       titleAnimation.to(
         ".animated-word",
         {
